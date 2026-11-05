@@ -16,10 +16,10 @@ Desarrollado por Hernán Ariel Ortega Agüero y Jesús David Insaurralde Duarte 
 * 🤖 **Asistente Guía (Bot CyberLab):** Protocolo interactivo de defensa en 3 pasos (Contención, Análisis y Erradicación/Recuperación) con resaltado inteligente de herramientas.
 * 🧰 **Suite de Herramientas de Defensa:** Control de red Wi-Fi, Administrador de Tareas, Centro Forense e IA Heurística, Antivirus Pro y Centro de Backups en la nube + 2FA.
 * 🧠 **Trivia Evaluativa:** Cuestionario de 12 preguntas con retroalimentación instantánea y sistema de rangos.
-* 🎓 **Certificado Digital Descargable:** Generador integrado con HTML5 Canvas que exporta un diploma personalizado en alta definición (PNG) según el progreso alcanzado[cite: 1].
+* 🎓 **Certificado Digital Descargable:** Generador integrado con HTML5 Canvas que exporta un diploma personalizado en alta definición (PNG) según el progreso alcanzado.
 
 ---
 
 ## 🎮 Cómo usar la aplicación
 
-Descarga el repositorio y ejecuta el archivo **index.html**
+Descarga el repositorio y ejecuta el archivo `index.html`.
